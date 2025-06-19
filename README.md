@@ -2,3 +2,4 @@
 ![image](https://github.com/user-attachments/assets/f0071717-8c83-4de0-956e-5b8cfcafc735)
 ![image](https://github.com/user-attachments/assets/7b783002-5505-41b1-97a0-3cb7e369c30f)
 1.https://github.com/ST10476525/SongListApp.git
+This Song List app allows the user to enter any artist name, song , rate the frm 1 to 5 and comment about the song whether they liked or not
